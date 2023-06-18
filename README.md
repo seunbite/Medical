@@ -2,7 +2,11 @@
 
 
 Medical AI project to diagnose "Dementia" with LLM
+
+
 Zero-Shot Prompting
+
+
 (GPT, LLaMa, ChatDoctor)
 
 
